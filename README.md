@@ -13,13 +13,8 @@
 pip https://github.com/DanilShilo/Uchebnaya-praktika.git
 pip cd Uchebnaya-praktika
 ```
-2. Установка зависимостей
-```bash
-pip pip install -r requirements.txt
 
-```
-
-3. Установите необходимые библиотеки через терминал:
+2. Установите необходимые библиотеки через терминал:
 
 ```bash
 pip install opencv-python
